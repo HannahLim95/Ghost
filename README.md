@@ -10,6 +10,3 @@ Features:
 - choose language (dutch or english)
 - restart the game
 - highscore list
-
-![alt tag](cid:CC75EBB6-6721-403C-BD99-5546EBA08916@arnhem.chello.nl)
-
