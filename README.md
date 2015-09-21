@@ -10,3 +10,5 @@ Features:
 - choose language (dutch or english)
 - restart the game
 - highscore list
+
+![Screens](img/ghost.png)
