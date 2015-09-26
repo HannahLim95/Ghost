@@ -15,3 +15,8 @@ Features:
 
 ![Screens](img/settings.png)
 
+![Screens](img/game.png)
+
+![Screens](img/menu.png)
+
+![Screens](img/highscore.png)
