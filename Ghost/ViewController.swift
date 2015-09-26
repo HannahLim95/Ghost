@@ -60,6 +60,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
     func pickerView(pickerViewPlayer1: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String! {
         return namesPlayers.arrayForKey("players")![row] as! String
     }
+    
     func numberOfComponentsInPickerView2(pickerViewPlayer2: UIPickerView) -> Int {
         return 1
     }

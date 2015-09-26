@@ -11,4 +11,9 @@ Features:
 - restart the game
 - highscore list
 
+Hallo
+
 ![Screens](img/ghost.png)
+
+![Screens](img/settings.png)
+
